@@ -1,6 +1,8 @@
+https://github.com/jamieduk/Safe-rm
 
 
-3. Usage
+
+Usage
 Delete a file (or move it if under 10MB):
 
 
